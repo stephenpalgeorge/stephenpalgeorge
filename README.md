@@ -1,10 +1,10 @@
 # Hi
 
-👋 Hi, I’m @stephenpalgeorge. I'm a full-stack developer based in London, UK. I'm currently working at the charity 'Christian Aid', helping to look after our [main website](https://www.christianaid.org.uk) and currently working on building a brand new donations platform.
+👋 Hi, I’m @stephenpalgeorge. I'm a full-stack developer based in London, UK. I'm currently working at the charity 'Christian Aid', helping to look after our [main website](https://www.christianaid.org.uk) and currently working on building a brand new [donations platform](https://give.christianaid.org.uk).
 
 ## Other projects that I'm working on:
-- **Finch CSS**: a sass tooling library, written to make building scalable styles with Sass as good a DX as possible (in my opinion, of course).
-- **In the House API**: an API, written with the Express.js framework, that exposes political data for the UK House of Parliament.
+- **Ambience:** a mindfulness app, written with SvelteKit and Strapi.
+- **In the House API:** an api for querying political data in the UK houses of Lords and Parliament. Written with Node (Express) and the AdonisJS framework.
 
 ## Portfolio pieces:
 - [**Neil George Photography**](https://www.neilgeorgephotography.co.uk/): Portfolio website for the photography Neil George (who happens to be my Dad). Written with React and Firebase (and a tiny Express.js server).
